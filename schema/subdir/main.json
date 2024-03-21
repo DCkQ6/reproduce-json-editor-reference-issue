@@ -1,0 +1,10 @@
+{
+    "type": "object",
+    "title": "Subdir Schema",
+    "description": "This is sudir main.json",
+    "properties": {
+        "sub_reference": {
+            "$ref": "reference.json"
+        }
+    }
+}

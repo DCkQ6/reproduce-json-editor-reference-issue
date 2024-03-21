@@ -1,0 +1,11 @@
+{
+    "type": "object",
+    "title": "Reference in ROOT",
+    "description": "This ensures that root reference is used",
+    "properties": {
+        "root_param": {
+            "title": "A simple parameter from ROOT",
+            "type": "string"
+        }
+    }
+}
